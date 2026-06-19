@@ -1,0 +1,8 @@
+selenium
+pandas
+numpy
+openpyxl
+xlrd
+python-dateutil
+requests
+urllib3

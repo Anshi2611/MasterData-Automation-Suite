@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Screenshots
+*.png
+
+# Excel Files
+*.xlsx
+*.xls
+
+# Credentials
+.env
+config.py
+
+# OS Files
+.DS_Store
+Thumbs.db
